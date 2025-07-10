@@ -25,6 +25,4 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:deforxdev@gmail.com)
 
-> “The best way to learn is by building.” 🚀
-> 
 <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Dev;Python+%7C+C%23+lover;Always+learning+new+tech&font=Fira%20Code&center=true&width=380&height=50">

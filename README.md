@@ -27,6 +27,4 @@
 
 > “The best way to learn is by building.” 🚀
 > 
-[![trophy](https://github-profile-trophy.vercel.app/?username=твій_нік&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=твій_нік&theme=tokyonight&hide_border=true)
 <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Dev;Python+%7C+C%23+lover;Always+learning+new+tech&font=Fira%20Code&center=true&width=380&height=50">

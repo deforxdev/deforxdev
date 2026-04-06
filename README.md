@@ -1,6 +1,5 @@
 # 💫 About Me:
-Я програміст, який працює з різними мовами та технологіями.<br>Маю досвід у C++, Python, TypeScript, React, C#.<br>Це дає мені можливість створювати проєкти різного рівня:<br><br>C++ → системні застосунки та продуктивні програми.<br><br>Python → автоматизація, скрипти та штучний інтелект.<br><br>TypeScript + React → сучасні вебзастосунки з гарним інтерфейсом.<br><br>C# → десктопні програми.<br><br>Dart → кросплатформні мобільні застосунки на Flutter.
-
+Я програміст, який працює з різними мовами та технологіями.<br>Маю досвід у C++, Python, TypeScript, React, C#.<br>Це дає мені можливість створювати проєкти різного рівня:<br><br>C++ → системні застосунки та продуктивні програми.<br><br>Python → автоматизація, скрипти та штучний інтелект.<br><br>TypeScript + React → сучасні вебзастосунки з гарним інтерфейсом.<br><br>C# → десктопні програми.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/AB5fWATexa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deforxdev@gmail.com) 

@@ -40,18 +40,6 @@ I work on websites, web interfaces and custom software — from the first layout
 
 Most of my projects are focused on real interfaces and usable products rather than template-based websites.
 
-→ [View my projects](https://github.com/deforxdev)
-
-### Contact
-
-Have a project in mind?
-
-**Portfolio:** [deforx.dev](https://deforx.dev)
-
-**GitHub:** [github.com/deforxdev](https://github.com/deforxdev)
-
-For website inquiries, contact me through my portfolio.
-
 ---
 
 © deforx

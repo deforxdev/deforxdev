@@ -4,13 +4,12 @@
 
 <strong>Web developer</strong> building clean, fast and practical websites.
 
-
 <a href="https://github.com/deforxdev?tab=repositories">Repositories</a>
 
 <br />
 <br />
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,python,supabase,git" alt="React, TypeScript, JavaScript, HTML, CSS, Python, Supabase and Git" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,go,cpp,rust,python,supabase,git" alt="React, TypeScript, JavaScript, HTML, CSS, Go, C++, Rust, Python, Supabase and Git" />
 
 </div>
 
@@ -28,8 +27,8 @@ I like simple ideas, clear structure and details that make a product feel comple
     <td width="50%"><strong>Frontend</strong><br /><sub>Responsive interfaces that are easy to use</sub></td>
   </tr>
   <tr>
-    <td><strong>Backend</strong><br /><sub>REST APIs, integrations and data-driven features</sub></td>
-    <td><strong>Custom software</strong><br /><sub>Small tools and practical solutions</sub></td>
+    <td><strong>Backend</strong><br /><sub>Go, C++, Rust, Python, REST APIs and integrations</sub></td>
+    <td><strong>Custom software</strong><br /><sub>Small tools, AI-assisted workflows and practical solutions</sub></td>
   </tr>
 </table>
 
@@ -38,11 +37,14 @@ I like simple ideas, clear structure and details that make a product feel comple
 **Frontend**  
 React · TypeScript · JavaScript · HTML · CSS
 
-**Backend and data**  
-Python · Supabase · REST APIs
+**Backend**  
+Go · C++ · Rust · Python
 
-**Also familiar with**  
-C# · C++ · Flutter · Unity · Git
+**Data, APIs and tools**  
+Supabase · REST APIs · Git
+
+**AI and automation**  
+AI tools · API integrations · workflow automation
 
 ## What matters to me
 

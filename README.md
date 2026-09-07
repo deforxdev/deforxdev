@@ -1,45 +1,61 @@
+<div align="center">
+
 # deforx
 
-Web developer focused on building clean, fast and practical websites.
+<strong>Web developer</strong> building clean, fast and practical websites.
 
-I work on websites, web interfaces and custom software — from the first layout to a finished, responsive product.
+<a href="https://deforx.github.io">Portfolio</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/deforxdev?tab=repositories">Repositories</a>
 
-### What I do
+<br />
+<br />
 
-- Business websites
-- Landing pages
-- Portfolio websites
-- Custom web interfaces
-- Responsive UI
-- Frontend development
-- Backend integrations
-- Custom software
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,python,supabase,git" alt="React, TypeScript, JavaScript, HTML, CSS, Python, Supabase and Git" />
 
-### Stack
+</div>
 
-**Frontend**
-- React
-- TypeScript
-- JavaScript
-- HTML
-- CSS
+## About
 
-**Backend / Data**
-- Python
-- Supabase
-- REST APIs
+I build websites, web interfaces and custom software, from the first layout to a finished, responsive product.
 
-**Other**
-- C#
-- C++
-- Flutter
-- Unity
-- Git
+I like simple ideas, clear structure and details that make a product feel complete.
 
-### Selected work
+## What I do
 
-Most of my projects are focused on real interfaces and usable products rather than template-based websites.
+<table>
+  <tr>
+    <td width="50%"><strong>Web development</strong><br /><sub>Business websites, landing pages and portfolios</sub></td>
+    <td width="50%"><strong>Frontend</strong><br /><sub>Responsive interfaces that are easy to use</sub></td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong><br /><sub>REST APIs, integrations and data-driven features</sub></td>
+    <td><strong>Custom software</strong><br /><sub>Small tools and practical solutions</sub></td>
+  </tr>
+</table>
 
----
+## Stack
 
-© deforx
+**Frontend**  
+React · TypeScript · JavaScript · HTML · CSS
+
+**Backend and data**  
+Python · Supabase · REST APIs
+
+**Also familiar with**  
+C# · C++ · Flutter · Unity · Git
+
+## What matters to me
+
+- Clear, maintainable code
+- Responsive layouts that work on real devices
+- Interfaces that are easy to understand
+- Learning through real projects and useful feedback
+
+<div align="center">
+
+<a href="https://deforx.github.io">Portfolio</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/deforxdev">GitHub</a>
+
+</div>

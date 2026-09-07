@@ -4,8 +4,7 @@
 
 <strong>Web developer</strong> building clean, fast and practical websites.
 
-<a href="https://deforx.github.io">Portfolio</a>
-&nbsp;·&nbsp;
+
 <a href="https://github.com/deforxdev?tab=repositories">Repositories</a>
 
 <br />
@@ -54,8 +53,6 @@ C# · C++ · Flutter · Unity · Git
 
 <div align="center">
 
-<a href="https://deforx.github.io">Portfolio</a>
-&nbsp;·&nbsp;
 <a href="https://github.com/deforxdev">GitHub</a>
 
 </div>
